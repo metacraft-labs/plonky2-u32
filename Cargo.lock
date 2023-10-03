@@ -327,7 +327,7 @@ checksum = "dd8b5dd2ae5ed71462c540258bedcb51965123ad7e7ccf4b9a8cafaa4a63576d"
 [[package]]
 name = "plonky2"
 version = "0.1.3"
-source = "git+https://github.com/metacraft-labs/plonky2#12402078a460c41cd11013d065367c8e25bb8478"
+source = "git+https://github.com/metacraft-labs/plonky2?branch=stark-verifier#c719a5ff7a03952dc8dae48a7828bf6e01ecfe0c"
 dependencies = [
  "ahash",
  "anyhow",
